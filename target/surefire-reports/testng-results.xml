@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T22:32:28 BST" name="Surefire suite" finished-at="2023-03-29T22:32:30 BST" duration-ms="1579">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T22:32:28 BST" name="Surefire test" finished-at="2023-03-29T22:32:30 BST" duration-ms="1579">
+      <class name="com.amplience.AppTest">
+        <test-method signature="shouldAnswerWithTrue()" started-at="2023-03-29T22:32:30 BST" name="shouldAnswerWithTrue" finished-at="2023-03-29T22:32:30 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.amplience.AppTest -->
+      <class name="com.amplience.AmplienceAPITest">
+        <test-method signature="ValidateBookHeaders()" started-at="2023-03-29T22:32:28 BST" name="ValidateBookHeaders" finished-at="2023-03-29T22:32:29 BST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateBookHeaders -->
+        <test-method signature="IteratingHeaders()" started-at="2023-03-29T22:32:28 BST" name="IteratingHeaders" finished-at="2023-03-29T22:32:30 BST" duration-ms="1558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IteratingHeaders -->
+        <test-method signature="GetBooksDetails()" started-at="2023-03-29T22:32:28 BST" name="GetBooksDetails" finished-at="2023-03-29T22:32:29 BST" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetBooksDetails -->
+      </class> <!-- com.amplience.AmplienceAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
